@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="xtrem.wellworthhawkeye">
+    <application android:label="@string/app_name"
+        android:icon="@drawable/ceodb"
+        android:roundIcon="@drawable/ceodb"
+        android:usesCleartextTraffic="true">
+
+        <uses-library android:name="org.apache.http.legacy" android:required="false" />
+        <activity android:name="xtrem.wellworthhawkeye.MainActivity"
+                  android:label="@string/app_name"
+                  android:screenOrientation="landscape">
+
+        </activity>
+        <activity android:label="@string/app_name" android:name="xtrem.wellworthhawkeye.SplashScreen"
+                  android:screenOrientation="landscape"
+                  android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="xtrem.wellworthhawkeye.LoginScreen"
+                  android:screenOrientation="landscape"
+                  android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+
+        </activity>
+        <activity android:label="@string/app_name" android:name="xtrem.wellworthhawkeye.CEODBScreen"
+                  android:screenOrientation="landscape"
+                  android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+        <activity android:label="@string/app_name" android:name="xtrem.wellworthhawkeye.SegmentDataScreen"
+                  android:screenOrientation="landscape"
+                  android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+        <activity
+                android:name="xtrem.wellworthhawkeye.XTREMScreen"
+                android:label="xtremScreen"
+                android:screenOrientation="landscape"
+                android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+        <activity
+                android:name="xtrem.wellworthhawkeye.MainScreen"
+                android:screenOrientation="landscape"
+                android:label="MainScreen"/>
+        <activity
+                android:name="xtrem.wellworthhawkeye.MyReportScreen"
+                android:label="My Report"
+                android:screenOrientation="landscape"
+                android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+
+                </activity>
+
+         <activity
+                android:name="xtrem.wellworthhawkeye.MiddleScreen"
+                android:label="MiddleScreen"
+                android:screenOrientation="landscape"
+                android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+
+        </activity>
+        <activity
+                android:name="xtrem.wellworthhawkeye.ClientOpenPosition"
+                android:label="ClientOpenPosition"/>
+        <activity android:name="xtrem.wellworthhawkeye.MyReport"
+            android:label="MyReport"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+        <activity
+            android:name="xtrem.wellworthhawkeye.MyReportDetails"
+            android:label="MyReportDetails"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+</manifest>

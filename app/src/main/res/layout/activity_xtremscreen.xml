@@ -1,0 +1,122 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_gravity="center"
+    tools:context="com.xtrem.myhospital.XTREMScreen"
+    android:dividerPadding="4dp"
+        android:background="@android:color/white">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="#ff1e90ff"
+    android:layout_marginTop="10dp"
+    android:text="By"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:text="Xtremsoft Technologies Private Limited"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="#ff1e90ff"
+        android:text="Address"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="#000"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:text="802, Jai Antariksh, Makwana Road,\nOff. Andheri Kurla Road, Andheri (East),\n Mumbai - 400059. India."/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="#ff1e90ff"
+        android:text="Phone"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="+919892728310"
+        android:textColor="#000"
+        android:autoLink="phone"
+        android:textColorLink="#000000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="#ff1e90ff"
+        android:text="Email"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:layout_marginTop="10dp"
+        android:textColorLink="#000000"
+        android:text="mobilitysolution@xtremsoftindia.com"
+        android:autoLink="email" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="#ff1e90ff"
+        android:text="Website"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="#000"
+        android:textColorLink="#000000"
+        android:text="http://www.xtremsoftindia.com"
+        android:autoLink="web" />
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:onClick="social_click"
+            android:contentDescription="http://www.facebook.com/xtremsoft"
+            android:src="@drawable/facebook_02"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:onClick="social_click"
+            android:contentDescription="http://www.twitter.com/xtremsofttech"
+            android:src="@drawable/twitter_02"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:onClick="social_click"
+            android:contentDescription="https://plus.google.com/u/0/101212992111121580973/about"
+            android:src="@drawable/google_02"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:onClick="social_click"
+            android:contentDescription="http://www.pinterest.com/xtremsoft"
+            android:src="@drawable/pinterest_02"/>
+        </LinearLayout>
+</LinearLayout>

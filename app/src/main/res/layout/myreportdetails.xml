@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="My Report Details"
+            android:gravity="center"
+            android:textSize="18dp"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginRight="@dimen/margin"
+        android:background="@color/xtrem_greeen"
+        >
+
+       <!-- <TextView
+            android:id="@+id/lblcolumn1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Column1"
+            android:gravity="right"
+            android:layout_weight="1"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:id="@+id/lblcolumn2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Column2"
+            android:gravity="right"
+            android:layout_weight="1"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:id="@+id/lblcolumn3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Column3"
+            android:gravity="right"
+            android:layout_weight="1"
+            android:textColor="@color/white"/>-->
+
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:id="@+id/data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

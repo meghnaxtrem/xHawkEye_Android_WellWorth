@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:2:1-74:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\d22f025fa2ef900b68ddf05b0ea5cdb7\appcompat-v7-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\3cc8799c26d28d065242ea2f14082616\support-fragment-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\ac31d72a7619446d276179470b2426c3\animated-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\ffef57858f921fb6147c4be52a821fe6\support-core-ui-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\1aabaf7b22420dd01aec43edca9348e4\support-core-utils-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\281bdc72b3dc1fc94698b9382f7995e4\support-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\0ad4615363d9a77b1c3bffd54b422879\loader-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\89837dac7912ae36893a8d2c5eee3c15\viewpager-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\ef452565963d320cf70b2dbb6b360de8\coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\67e7cf5937695c0084714995f366ee6c\drawerlayout-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\a88bb5e8b985a052140500f59d38a40e\slidingpanelayout-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\300352ae23d319f394d6a1772d8be8b0\customview-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\0a882612c439ec48e59b6ae59014efa1\swiperefreshlayout-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\85f1036a045bcea7c79e01977d1a85e2\asynclayoutinflater-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\18ac9a84918b8ea33ce34f8115d27f0e\support-compat-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\4c5068b676c4ae150870ed1d8544bb8d\documentfile-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\f57db7849a818ebb9b36aefbfe9933c4\localbroadcastmanager-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\d42092318b4ff64ce80d693a3c9eaaed\print-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\deefe17c1df103e4f6fe47e0ce2bf6e1\interpolator-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\635a681a62e5b5c513e46504c6bf20d8\cursoradapter-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\58707b756588e8d18ddbe512adc6dcdf\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\3760d8ea4fed3bd7e04285d253c1b3a4\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\06e084fcde9c4549fc294d5fcf377d7c\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\3a180f34418bc86b05d3c330452a2346\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:3:7-39
+		INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+		INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:4:5-69:19
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:4:18-50
+	android:icon
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:5:9-42
+	android:usesCleartextTraffic
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:6:9-44
+uses-library#org.apache.http.legacy
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:7:9-88
+	android:required
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:7:61-85
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:7:23-60
+activity#xtrem.wellworthhawkeye.MainActivity
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:8:9-12:20
+	android:screenOrientation
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:10:19-56
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:9:19-51
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:8:19-69
+activity#xtrem.wellworthhawkeye.SplashScreen
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:13:9-20:20
+	android:screenOrientation
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:14:19-56
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:13:19-51
+	android:theme
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:15:19-83
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:13:52-102
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:18:27-74
+activity#xtrem.wellworthhawkeye.LoginScreen
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:21:9-25:20
+	android:screenOrientation
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:22:19-56
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:21:19-51
+	android:theme
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:23:19-83
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:21:52-101
+activity#xtrem.wellworthhawkeye.CEODBScreen
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:26:9-28:85
+	android:screenOrientation
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:27:19-56
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:26:19-51
+	android:theme
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:28:19-83
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:26:52-101
+activity#xtrem.wellworthhawkeye.SegmentDataScreen
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:29:9-31:85
+	android:screenOrientation
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:30:19-56
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:29:19-51
+	android:theme
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:31:19-83
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:29:52-107
+activity#xtrem.wellworthhawkeye.XTREMScreen
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:32:9-36:83
+	android:screenOrientation
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:35:17-54
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:34:17-44
+	android:theme
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:33:17-66
+activity#xtrem.wellworthhawkeye.MainScreen
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:37:9-40:45
+	android:screenOrientation
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:39:17-54
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:40:17-43
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:38:17-65
+activity#xtrem.wellworthhawkeye.MyReportScreen
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:41:9-47:28
+	android:screenOrientation
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:44:17-54
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:43:17-42
+	android:theme
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:45:17-81
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:42:17-69
+activity#xtrem.wellworthhawkeye.MiddleScreen
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:49:10-55:20
+	android:screenOrientation
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:52:17-54
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:51:17-45
+	android:theme
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:53:17-81
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:50:17-67
+activity#xtrem.wellworthhawkeye.ClientOpenPosition
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:56:9-58:53
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:58:17-51
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:57:17-73
+activity#xtrem.wellworthhawkeye.MyReport
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:59:9-62:79
+	android:screenOrientation
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:61:13-50
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:60:13-37
+	android:theme
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:62:13-77
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:59:19-65
+activity#xtrem.wellworthhawkeye.MyReportDetails
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:63:9-67:79
+	android:screenOrientation
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:66:13-50
+	android:label
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:65:13-44
+	android:theme
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:67:13-77
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:64:13-66
+uses-permission#android.permission.INTERNET
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:70:5-66
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:70:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:71:5-80
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:71:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:72:5-79
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:72:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:73:5-75
+	android:name
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:73:22-72
+uses-sdk
+INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\d22f025fa2ef900b68ddf05b0ea5cdb7\appcompat-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\d22f025fa2ef900b68ddf05b0ea5cdb7\appcompat-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\3cc8799c26d28d065242ea2f14082616\support-fragment-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\3cc8799c26d28d065242ea2f14082616\support-fragment-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\ac31d72a7619446d276179470b2426c3\animated-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\ac31d72a7619446d276179470b2426c3\animated-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\ffef57858f921fb6147c4be52a821fe6\support-core-ui-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\ffef57858f921fb6147c4be52a821fe6\support-core-ui-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\1aabaf7b22420dd01aec43edca9348e4\support-core-utils-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\1aabaf7b22420dd01aec43edca9348e4\support-core-utils-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\281bdc72b3dc1fc94698b9382f7995e4\support-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\281bdc72b3dc1fc94698b9382f7995e4\support-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\0ad4615363d9a77b1c3bffd54b422879\loader-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\0ad4615363d9a77b1c3bffd54b422879\loader-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\89837dac7912ae36893a8d2c5eee3c15\viewpager-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\89837dac7912ae36893a8d2c5eee3c15\viewpager-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\ef452565963d320cf70b2dbb6b360de8\coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\ef452565963d320cf70b2dbb6b360de8\coordinatorlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\67e7cf5937695c0084714995f366ee6c\drawerlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\67e7cf5937695c0084714995f366ee6c\drawerlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\a88bb5e8b985a052140500f59d38a40e\slidingpanelayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\a88bb5e8b985a052140500f59d38a40e\slidingpanelayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\300352ae23d319f394d6a1772d8be8b0\customview-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\300352ae23d319f394d6a1772d8be8b0\customview-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\0a882612c439ec48e59b6ae59014efa1\swiperefreshlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\0a882612c439ec48e59b6ae59014efa1\swiperefreshlayout-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\85f1036a045bcea7c79e01977d1a85e2\asynclayoutinflater-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\85f1036a045bcea7c79e01977d1a85e2\asynclayoutinflater-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\18ac9a84918b8ea33ce34f8115d27f0e\support-compat-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\18ac9a84918b8ea33ce34f8115d27f0e\support-compat-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\4c5068b676c4ae150870ed1d8544bb8d\documentfile-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\4c5068b676c4ae150870ed1d8544bb8d\documentfile-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\f57db7849a818ebb9b36aefbfe9933c4\localbroadcastmanager-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\f57db7849a818ebb9b36aefbfe9933c4\localbroadcastmanager-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\d42092318b4ff64ce80d693a3c9eaaed\print-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\d42092318b4ff64ce80d693a3c9eaaed\print-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\deefe17c1df103e4f6fe47e0ce2bf6e1\interpolator-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\deefe17c1df103e4f6fe47e0ce2bf6e1\interpolator-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\635a681a62e5b5c513e46504c6bf20d8\cursoradapter-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\635a681a62e5b5c513e46504c6bf20d8\cursoradapter-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\58707b756588e8d18ddbe512adc6dcdf\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\58707b756588e8d18ddbe512adc6dcdf\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\3760d8ea4fed3bd7e04285d253c1b3a4\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\3760d8ea4fed3bd7e04285d253c1b3a4\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\06e084fcde9c4549fc294d5fcf377d7c\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\06e084fcde9c4549fc294d5fcf377d7c\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\3a180f34418bc86b05d3c330452a2346\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\khushboo\.gradle\caches\transforms-2\files-2.1\3a180f34418bc86b05d3c330452a2346\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+		INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+		ADDED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+		INJECTED from F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml

@@ -1,0 +1,170 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="xtrem.wellworthhawkeye"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:70:5-66
+11-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:70:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:71:5-80
+12-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:71:22-78
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:72:5-79
+13-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:72:22-76
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:73:5-75
+14-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:73:22-72
+15
+16    <application
+16-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:4:5-69:19
+17        android:icon="@drawable/app_icon"
+17-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:5:9-42
+18        android:label="@string/app_name"
+18-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:4:18-50
+19        android:usesCleartextTraffic="true" >
+19-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:6:9-44
+20        <uses-library
+20-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:7:9-88
+21            android:name="org.apache.http.legacy"
+21-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:7:23-60
+22            android:required="false" />
+22-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:7:61-85
+23
+24        <activity
+24-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:8:9-12:20
+25            android:name="xtrem.wellworthhawkeye.MainActivity"
+25-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:8:19-69
+26            android:label="@string/app_name"
+26-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:9:19-51
+27            android:screenOrientation="landscape" >
+27-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:10:19-56
+28        </activity>
+29        <activity
+29-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:13:9-20:20
+30            android:name="xtrem.wellworthhawkeye.SplashScreen"
+30-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:13:52-102
+31            android:label="@string/app_name"
+31-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:13:19-51
+32            android:screenOrientation="landscape"
+32-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:14:19-56
+33            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+33-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:15:19-83
+34            <intent-filter>
+34-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:16:13-19:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:17:17-69
+35-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:17:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:18:17-77
+37-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:18:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:21:9-25:20
+41            android:name="xtrem.wellworthhawkeye.LoginScreen"
+41-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:21:52-101
+42            android:label="@string/app_name"
+42-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:21:19-51
+43            android:screenOrientation="landscape"
+43-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:22:19-56
+44            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+44-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:23:19-83
+45        </activity>
+46        <activity
+46-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:26:9-28:85
+47            android:name="xtrem.wellworthhawkeye.CEODBScreen"
+47-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:26:52-101
+48            android:label="@string/app_name"
+48-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:26:19-51
+49            android:screenOrientation="landscape"
+49-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:27:19-56
+50            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+50-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:28:19-83
+51        <activity
+51-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:29:9-31:85
+52            android:name="xtrem.wellworthhawkeye.SegmentDataScreen"
+52-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:29:52-107
+53            android:label="@string/app_name"
+53-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:29:19-51
+54            android:screenOrientation="landscape"
+54-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:30:19-56
+55            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+55-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:31:19-83
+56        <activity
+56-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:32:9-36:83
+57            android:name="xtrem.wellworthhawkeye.XTREMScreen"
+57-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:33:17-66
+58            android:label="xtremScreen"
+58-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:34:17-44
+59            android:screenOrientation="landscape"
+59-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:35:17-54
+60            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+60-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:36:17-81
+61        <activity
+61-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:37:9-40:45
+62            android:name="xtrem.wellworthhawkeye.MainScreen"
+62-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:38:17-65
+63            android:label="MainScreen"
+63-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:40:17-43
+64            android:screenOrientation="landscape" />
+64-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:39:17-54
+65        <activity
+65-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:41:9-47:28
+66            android:name="xtrem.wellworthhawkeye.MyReportScreen"
+66-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:42:17-69
+67            android:label="My Report"
+67-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:43:17-42
+68            android:screenOrientation="landscape"
+68-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:44:17-54
+69            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+69-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:45:17-81
+70        </activity>
+71        <activity
+71-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:49:10-55:20
+72            android:name="xtrem.wellworthhawkeye.MiddleScreen"
+72-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:50:17-67
+73            android:label="MiddleScreen"
+73-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:51:17-45
+74            android:screenOrientation="landscape"
+74-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:52:17-54
+75            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+75-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:53:17-81
+76        </activity>
+77        <activity
+77-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:56:9-58:53
+78            android:name="xtrem.wellworthhawkeye.ClientOpenPosition"
+78-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:57:17-73
+79            android:label="ClientOpenPosition" />
+79-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:58:17-51
+80        <activity
+80-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:59:9-62:79
+81            android:name="xtrem.wellworthhawkeye.MyReport"
+81-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:59:19-65
+82            android:label="MyReport"
+82-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:60:13-37
+83            android:screenOrientation="landscape"
+83-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:61:13-50
+84            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+84-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:62:13-77
+85        <activity
+85-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:63:9-67:79
+86            android:name="xtrem.wellworthhawkeye.MyReportDetails"
+86-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:64:13-66
+87            android:label="MyReportDetails"
+87-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:65:13-44
+88            android:screenOrientation="landscape"
+88-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:66:13-50
+89            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+89-->F:\xtremsoft\ceodb\xHawkEye_Android_WellWorth\app\src\main\AndroidManifest.xml:67:13-77
+90    </application>
+91
+92</manifest>
